@@ -1,0 +1,15 @@
+G:\workspace\windows\express\test\BT_test\BT_test\obj\Debug\BT_test.csprojAssemblyReference.cache
+G:\workspace\windows\express\test\BT_test\BT_test\obj\Debug\View\ViewTopLog.g.cs
+G:\workspace\windows\express\test\BT_test\BT_test\obj\Debug\App.g.cs
+G:\workspace\windows\express\test\BT_test\BT_test\obj\Debug\BT_test_MarkupCompile.cache
+G:\workspace\windows\express\test\BT_test\BT_test\obj\Debug\BT_test_MarkupCompile.lref
+G:\workspace\windows\express\test\BT_test\BT_test\bin\Debug\BT_test.exe.config
+G:\workspace\windows\express\test\BT_test\BT_test\bin\Debug\BT_test.exe
+G:\workspace\windows\express\test\BT_test\BT_test\bin\Debug\BT_test.pdb
+G:\workspace\windows\express\test\BT_test\BT_test\obj\Debug\View\ViewTopLog.baml
+G:\workspace\windows\express\test\BT_test\BT_test\obj\Debug\BT_test.g.resources
+G:\workspace\windows\express\test\BT_test\BT_test\obj\Debug\BT_test.Properties.Resources.resources
+G:\workspace\windows\express\test\BT_test\BT_test\obj\Debug\BT_test.csproj.GenerateResource.cache
+G:\workspace\windows\express\test\BT_test\BT_test\obj\Debug\BT_test.csproj.CoreCompileInputs.cache
+G:\workspace\windows\express\test\BT_test\BT_test\obj\Debug\BT_test.exe
+G:\workspace\windows\express\test\BT_test\BT_test\obj\Debug\BT_test.pdb
